@@ -1,4 +1,4 @@
-
+;
 # Swift Xcode Playground Support
 
 **Welcome to Swift Xcode Playground Support!**
